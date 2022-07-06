@@ -4,13 +4,9 @@
 - 🌱 I learned a little about Python+Django ...
 - 🌱 I’m currently learning ... Java, JS+React, testing ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: <a href="tinyurl.com/yc8c53kw" title="email">tinyurl.com/yc8c53kw</a>
+- 📫 How to reach me: <a href="https://tinyurl.com/yc8c53kw" title="email" target="_blank">by email</a>
 
-<!-- # portfolio -->
-░█▀█░█▀█░█▀▄░▀█▀░█▀▀░█▀█░█░░░▀█▀░█▀█
-░█▀▀░█░█░█▀▄░░█░░█▀▀░█░█░█░░░░█░░█░█
-░▀░░░▀▀▀░▀░▀░░▀░░▀░░░▀▀▀░▀▀▀░▀▀▀░▀▀▀
-
+# 👇 portfolio
 --------------------------------------------------
 # Python + Django
 https://github.com/martin-b-07e5/blog1
