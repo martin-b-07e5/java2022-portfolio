@@ -19,8 +19,8 @@ https://github.com/martin-b-07e5/blog1
 https://github.com/martin-b-07e5/blog_g6
 
 # App Usage
-  README.md
-  requirements.txt
+- README.md
+- requirements.txt
 --------------------------------------------------
 # Java exercises
 https://github.com/martin-b-07e5/java2022/tree/main/src/main/java
