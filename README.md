@@ -26,9 +26,9 @@ https://github.com/martin-b-07e5/blog_g6
 https://github.com/martin-b-07e5/java2022/tree/main/src/main/java
 --------------------------------------------------
 # JS practice
-🚀 https://martin-b-07e5.github.io/tp1
-🚀 https://martin-b-07e5.github.io/tp2
+- 🚀 https://martin-b-07e5.github.io/tp1
+- 🚀 https://martin-b-07e5.github.io/tp2
 
 # React practice
-👷 https://martin-b-07e5.github.io/tp4-react
+- 👷 https://martin-b-07e5.github.io/tp4-react
 --------------------------------------------------
