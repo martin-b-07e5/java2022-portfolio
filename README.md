@@ -19,7 +19,7 @@ https://github.com/martin-b-07e5/blog_g6
 - requirements.txt
 --------------------------------------------------
 # Java exercises
-https://github.com/martin-b-07e5/java2022/tree/main/src/main/java
+- https://github.com/martin-b-07e5/java2022/tree/main/src/main/java
 --------------------------------------------------
 # JS practice
 - 🚀 https://martin-b-07e5.github.io/tp1
