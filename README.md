@@ -41,5 +41,5 @@
   👀(newsapi.org has changed its free service to only allow API calls locally)
 --------------------------------------------------
 # Java Final Project
-- 🚀 https://github.com/martin-b-07e5/news-app-v0.2
+- 🚀 https://github.com/martin-b-07e5/aas-v0.1
 --------------------------------------------------
