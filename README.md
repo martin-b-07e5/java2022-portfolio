@@ -37,7 +37,8 @@
 # React Final Project
 ## newsAPI
 - 🚀 https://github.com/martin-b-07e5/news-app-v0.2 
-👀(newsapi.org has changed its free service to only allow API calls locally)
+
+  👀(newsapi.org has changed its free service to only allow API calls locally)
 --------------------------------------------------
 # Java Final Project
 - 🚀 https://github.com/martin-b-07e5/news-app-v0.2
