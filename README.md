@@ -1,5 +1,5 @@
 # presentation
-- 👋 Hi, I’m @martin-b--07e5
+- 👋 Hi, I’m Martín B.
 - 👀 I’m interested in ... (see below)
 - 🌱 I learned a little about Python+Django (2021) ...
 - 🌱 I learned (2022) a little more about
